@@ -1,0 +1,6 @@
+discord.py>=2.4.0
+python-dotenv
+flask
+flask-cors
+aiohttp
+psutil
